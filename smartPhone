@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<import xmlns="_http://guidewire.com/cc/exim/import" version="p5.75.a10.186.174">
+  <Ma_Integration public-id="cc:31">
+    <IntegrationName>Salesforce</IntegrationName>
+    <IntegrationInfo>Active</IntegrationInfo>
+  </Ma_Integration>
+</import>
